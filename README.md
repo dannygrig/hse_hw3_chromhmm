@@ -15,3 +15,4 @@ hse_hw3_chromhmm
 |	H3k79me2 |	H3k79me2AlnRep1.bed |	http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHuvecH3k79me2AlnRep1.bam |
 |	H4k20me1 |	H4k20me1StdAlnRep1.bed |	http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHuvecH4k20me1StdAlnRep1.bam |
 |	Pol2b |	Pol2bStdAlnRep1.bed |	http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHuvecPol2bStdAlnRep1.bam |
+### Файл cellmarkfiletable.txt в папке [data](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/cellmarkfiletable.txt)
