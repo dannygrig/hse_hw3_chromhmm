@@ -16,3 +16,7 @@ hse_hw3_chromhmm
 |	H4k20me1 |	H4k20me1StdAlnRep1.bed |	http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHuvecH4k20me1StdAlnRep1.bam |
 |	Pol2b |	Pol2bStdAlnRep1.bed |	http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHuvecPol2bStdAlnRep1.bam |
 ### Файл cellmarkfiletable.txt в папке [data](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/cellmarkfiletable.txt)
+
+|  |  |  |
+| ------------- | ------------- | ------------- |
+| ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/emissions_10.png) | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/HUVEC_10_overlap.png) | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/transitions_10.png) | 
