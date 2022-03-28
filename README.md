@@ -26,6 +26,7 @@ hse_hw3_chromhmm
 | Emissions | Overlap | Transitions |
 | ------------- | ------------- | ------------- |
 | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/emissions_10.png) | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/HUVEC_10_overlap.png) | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/transitions_10.png) | 
+
 ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/huvec_1.png)
 ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/huvec_2.png)
 ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/huvec_3.png)
