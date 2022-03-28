@@ -40,4 +40,4 @@ hse_hw3_chromhmm
 | 9 | 1 | 1_Active_Promoter |
 | 10 | 2 | 2_Weak_Promoter |
 
-#### Бонусное задание (.bed файл) в папке data 
+#### Бонусное задание (.bed файл) в папке data, R код в папке src
