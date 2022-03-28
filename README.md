@@ -46,3 +46,5 @@ hse_hw3_chromhmm
 | 10 | 2 | 2_Weak_Promoter |
 
 #### Бонусное задание (.bed файл) в папке диска [тут](https://drive.google.com/drive/folders/1CTsk-VljwhgLw3IXwj_QzOC4PDjT0YG0?usp=sharing), т.к. не влезло на гитхаб, R код в папке src
+![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/huvec_5.png)
+#### Результат бонусного задания
