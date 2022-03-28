@@ -40,4 +40,4 @@ hse_hw3_chromhmm
 | 9 | 1 | 1_Active_Promoter |
 | 10 | 2 | 2_Weak_Promoter |
 
-#### Бонусное задание не поместилось на гитхаб (больше 25 мб), поэтому сам файл лежит на диске [тут](https://drive.google.com/drive/folders/1CTsk-VljwhgLw3IXwj_QzOC4PDjT0YG0?usp=sharing)
+#### Бонусное задание (.bed файл) в папке data 
