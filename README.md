@@ -45,4 +45,4 @@ hse_hw3_chromhmm
 | 9 | 1 | 1_Active_Promoter |
 | 10 | 2 | 2_Weak_Promoter |
 
-#### Бонусное задание (.bed файл) в папке data, R код в папке src
+#### Бонусное задание (.bed файл) в папке диска [тут](https://drive.google.com/drive/folders/1CTsk-VljwhgLw3IXwj_QzOC4PDjT0YG0?usp=sharing), т.к. не влезло на гитхаб, R код в папке src
