@@ -27,3 +27,4 @@ hse_hw3_chromhmm
 | ------------- | ------------- | ------------- |
 | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/emissions_10.png) | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/HUVEC_10_overlap.png) | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/transitions_10.png) | 
 
+#### Бонусное задание не поместилось на гитхаб (больше 25 мб), поэтому сам файл лежит на диске [тут](https://drive.google.com/drive/folders/1CTsk-VljwhgLw3IXwj_QzOC4PDjT0YG0?usp=sharing)
