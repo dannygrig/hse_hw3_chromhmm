@@ -27,4 +27,17 @@ hse_hw3_chromhmm
 | ------------- | ------------- | ------------- |
 | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/emissions_10.png) | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/HUVEC_10_overlap.png) | ![](https://github.com/dannygrig/hse_hw3_chromhmm/blob/main/data/res/transitions_10.png) | 
 
+| Изначальный номер | Номер в соответствии с моделью ENCODE | Получившееся название |
+| ------------- | ------------- | ------------- |
+| 1 | 12 | 12_Repressed |
+| 2 | 13 | 13_Heterochromatin |
+| 3 | 9 | 9_Transcriptional_transition | 
+| 4 | 10 | 10_Transcriptional_elongation | 
+| 5 | 11 | 11_Weak_transcribed |
+| 6 | 6 | 6_Weak_enhancer |
+| 7 | 7 | 7_Weak_enhancer |
+| 8 | 5 | 5_Strong_enhancer |
+| 9 | 1 | 1_Active_Promoter |
+| 10 | 2 | 2_Weak_Promoter |
+
 #### Бонусное задание не поместилось на гитхаб (больше 25 мб), поэтому сам файл лежит на диске [тут](https://drive.google.com/drive/folders/1CTsk-VljwhgLw3IXwj_QzOC4PDjT0YG0?usp=sharing)
